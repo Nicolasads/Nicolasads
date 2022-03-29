@@ -1,9 +1,11 @@
 ### Olá, Dev!  👋😀
-
 ##
 
-- Bem vindo ao 
-
+ Meu nome é Nicolas Alexsander e sou desenvolvedor front-end, meus frameworks favoritos são ReactJS e React Native, também utilizo Angular para utilização de temas
+ como Dashboards. Apaixonado por criar telas e aprender novos conceitos de UI Design.
+ 
+ ##
+ 
 <div align="center">
   <a href="https://github.com/Nicolasads">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolasads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
