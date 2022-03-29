@@ -6,14 +6,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasads&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFvEvuRwVfIeQ/profile-displayphoto-shrink_800_800/0/1587391000696?e=2147483647&v=beta&t=_SRNAFQGU5dY17JoGuNPnV2mheDwD7LthwfESYst3gM?width=676&height=676">
+  <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nicolas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nicolas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Nicolas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Nicolas-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFvEvuRwVfIeQ/profile-displayphoto-shrink_800_800/0/1587391000696?e=2147483647&v=beta&t=_SRNAFQGU5dY17JoGuNPnV2mheDwD7LthwfESYst3gM">
 </div>
   
   ##
@@ -26,6 +26,6 @@
 <!--   <a href = "mailto:nicolasalexsander123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
 <!--   <a href="https://www.linkedin.com/in/nicolas-alexsander-5236891a7/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFvEvuRwVfIeQ/profile-displayphoto-shrink_800_800/0/1587391000696?e=2147483647&v=beta&t=_SRNAFQGU5dY17JoGuNPnV2mheDwD7LthwfESYst3gM" target="_blank"></a>  -->
  
-  ![Snake animation](https://github.com/Nicolasads/Nicolasads/blob/output/github-contribution-grid-snake.svg)
+  [Snake animation](https://github.com/Nicolasads/Nicolasads/blob/output/github-contribution-grid-snake.svg)
  
 </div>
